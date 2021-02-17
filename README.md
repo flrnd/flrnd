@@ -1,5 +1,7 @@
 ### Hi there 👋
+<img src="https://raw.githubusercontent.com/flrnd/flrnd/master/flrnd_dashboard_profile.png" alt="Dashboard design mock simulating a real app UI with Florian profile" />
 
+I'm Florian, multidisciplinary designer and developer.
 <!--
 **flrnd/flrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
