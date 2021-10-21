@@ -6,5 +6,8 @@
 
 I'm a rather curious person who loves learning new stuff and building things from the ground up. At the intersection between classic graphic design and software engineering, two fields I am passionate about, I strive for simplicity, finding harmony between functionality and aesthetics.
 
+![Flrnd's GitHub stats](https://github-readme-stats.vercel.app/api?username=flrnd&count_private=true&show_icons=true)
+
+
 
 
